@@ -236,11 +236,6 @@ Possible future improvements include:
 - Web-based search engine
 - Query expansion
 
----
-
-# 👩‍💻 Author
-
-Sara Waynu
 
 ---
 
