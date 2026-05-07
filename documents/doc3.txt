@@ -1,0 +1,1 @@
+Search engines use indexing and retrieval techniques for information retrieval.
